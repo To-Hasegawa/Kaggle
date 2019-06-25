@@ -13,4 +13,6 @@ https://www.kaggle.com/c/champs-scalar-coupling/discussion
 https://qiita.com/tktktks10/items/98d21133cf3e121676c3  
 https://tech-blog.abeja.asia/entry/2017/04/27/105613  
 https://www.kaggle.com/c/champs-scalar-coupling/discussion/93972#latest-546673  
+https://qiita.com/sakuramochi/items/541add66a7b75daad232  
+
 
