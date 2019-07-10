@@ -14,5 +14,9 @@ https://qiita.com/tktktks10/items/98d21133cf3e121676c3
 https://tech-blog.abeja.asia/entry/2017/04/27/105613  
 https://www.kaggle.com/c/champs-scalar-coupling/discussion/93972#latest-546673  
 https://qiita.com/sakuramochi/items/541add66a7b75daad232  
+https://research.preferred.jp/2017/12/chainer-chemistry-beta-release/  
+
+- RDkit  
+https://www.rdkit.org/docs_jp/Getting_Started_with_RDKit_in_Python_jp.html  
 
 
