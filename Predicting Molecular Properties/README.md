@@ -1,4 +1,4 @@
-I got bronze medal of this competition! (193th/2749)   
+# I got bronze medal of this competition! (193th/2749)   
 
 Folloing Pages maybe helpful.  
 
