@@ -1,4 +1,6 @@
-Folloing Pages maybe helpful.
+# I got bronze medal of this competition! (193th/2749)   
+
+Folloing Pages maybe helpful.  
 
 - Kaggle Tips in Japanese  
 https://naotaka1128.hatenadiary.jp/entry/kaggle-compe-tips
