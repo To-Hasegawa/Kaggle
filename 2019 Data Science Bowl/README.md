@@ -8,3 +8,5 @@ https://www.kaggle.com/c/data-science-bowl-2019/discussion/117019#latest-680222 
 https://www.kaggle.com/mhviraf/a-baseline-for-dsb-2019  
 https://www.kaggle.com/mhviraf/a-new-baseline-for-dsb-2019-catboost-model  
 https://www.kaggle.com/artgor/quick-and-dirty-regression  #Very high score kernel.  
+https://www.kaggle.com/roydatascience/data-science-bowl-data-minification #good for understanding.  
+
