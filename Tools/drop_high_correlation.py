@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #load data
 train = read.csv("***")
+train.shape
 # call feature engineering function
 features = train.columns
 #Drop high correlation features
@@ -14,3 +15,8 @@ for feat_a in features:
                 counter += 1
                 to_remove.append(feat_b)
                 print('{}: FEAT_A: {} FEAT_B: {} - Correlation: {}'.format(counter, feat_a, feat_b, c))
+
+#remove high correlation features
+features = [x for x in features if x not in to_remove]
+train = train[features]
+train.shape
