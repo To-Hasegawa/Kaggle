@@ -11,4 +11,4 @@ https://www.kaggle.com/mark4h/vsb-1st-place-solution#Preprocessing-Overview  #Si
 # Good Summary After Competition  
 https://towardsdatascience.com/identifying-the-number-of-open-ion-channels-with-hidden-markov-models-334fab86fc85 #1st non-leak solution.  
 https://www.kaggle.com/c/liverpool-ion-switching/discussion/154786 #Competition master message  
-  
+https://www.kaggle.com/c/liverpool-ion-switching/discussion/153824 #Leak explain  
