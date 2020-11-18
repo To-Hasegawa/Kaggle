@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
+import pandas as pd
 #load data
-train = read.csv("***")
+train = pd.read_csv("***.csv")
 train.shape
 # call feature engineering function
 features = train.columns
